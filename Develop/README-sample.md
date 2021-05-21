@@ -1,9 +1,9 @@
 
-  # README Generator
+  # READEME Generator
 
   ![License: MIT](https://img.shields.io/badge/License-MIT-blue)
 
-  ## To create a professional readme file 
+  ## To make a professional readme file
 
   ## Table of Contents:
   1. [Installation](#installation)
@@ -14,23 +14,23 @@
   6. [Questions](#questions)
 
   ## Project Description
-  To create a professional readme file 
+  To make a professional readme file
 
   ## Installation
-  npm init
+  Run command line and type "npm i"
 
   ## Usage
-  node index.js
+  Run command line and type "npm index.js"
 
   ## Tests
-  npm test
+  npm index.js
 
   ## License
   MIT
 
   ## Contribution
-  pull requests
+  Go to GitHub and find README Generator, then click on the video
 
   ## Questions
-  Questions? Please contact me via email dcheryth@gmail.com or visit my GitHub at ChengyuD
+  Questions? Please contact me via email hhhhhh or visit my GitHub at chengyud
 
